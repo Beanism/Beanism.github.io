@@ -1,4 +1,4 @@
-.Nav-Button {
+.Nav-About-Button {
   color: black;
   padding: 12px 18px;
   text-align: center;
@@ -9,13 +9,13 @@
   border: 1px solid black;
 }
 
-.Nav-Button:hover {
+.Nav-About-Button:hover {
 	background-color: black;
 	color: white;
 	border: 1px solid white;
 }
 
-.Nav-About-Button {
+.Nav-Button {
 	color: white;
 	background-color: black;
 	padding: 12px 18px;
@@ -27,7 +27,7 @@
 	border: 1px solid white;
 }
 
-.Nav-About-Button:hover {
+.Nav-Button:hover {
   color: black;
   background-color: white;
   padding: 12px 18px;
