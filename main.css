@@ -1,0 +1,83 @@
+.Nav-Button {
+  color: black;
+  padding: 12px 18px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.Nav-Button:hover {
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+}
+
+.Nav-About-Button {
+	color: white;
+	background-color: black;
+	padding: 12px 18px;
+	text-align: center;
+	display: inline-block;
+	font-size: 12px;
+	transition-duration: 0.5s;
+	cursor: pointer;
+	border: 1px solid white;
+}
+
+.Nav-About-Button:hover {
+  color: black;
+  background-color: white;
+  padding: 12px 18px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.Button-Container {
+	left: 50%;
+	position: absolute;
+	transform: translateX(-50%);
+}
+
+#Index-Body {
+	background-image: url('Bean1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	top: 60px;
+	position: relative;
+}
+
+p {
+	text-align: center;
+	top: 60px;
+	position: relative;
+}
+
+#About-Us-Body {
+	background-image: url("Bean2.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.About-Us-Text {
+	color: white;
+}
+
+#Contact-Body {
+	background-image: url("Bean3.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
