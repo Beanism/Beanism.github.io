@@ -64,6 +64,16 @@ p {
 	position: relative;
 }
 
+h3 {
+	text-align: center;
+	top: 60px;
+	position: relative;
+}
+
+#Legal-Body {
+	background-color: black;
+}
+
 #About-Us-Body {
 	background-image: url("Bean2.png");
 	background-repeat: no-repeat;
